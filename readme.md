@@ -10,6 +10,7 @@
 - Install VitalRouter ( Package manager, via git URL: https://github.com/hadashiA/VitalRouter.git?path=/src/VitalRouter.Unity/Assets/VitalRouter#1.6.5 )
 
 ## Examples
-| Example | Description                                                   | Tags                  |
-|---------|---------------------------------------------------------------|-----------------------|
-| [**Example.00 – No VitalRouter**](Assets/Example.00%20-%20No%20VitalRouter) | Gives you some impression of what "standard Unity routing" provides. |  `unity-standard`    |
+- Example.00 - No VitalRouter
+- Example.01 - Simple Event Handler
+- Example.02 - Sequential Control
+- Example.03 - Event Handler Order, Event Chain
